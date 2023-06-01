@@ -1,0 +1,29 @@
+/* css code */
+body {
+  /* background: #7180B9; */
+  padding: 20px
+  background: purple
+  color: white;
+  text-align: center;
+}
+h1{
+  font-size: large;
+}
+p{
+  font-size: small;
+}
+
+.profile-img {
+  width: 50%;
+  border-radius: 50%;
+}
+
+
+.btn {
+  display: block;
+  color: black ;
+  padding: 10px;
+  background: white;
+  margin: 16px;
+  box-shadow: 10px 10px lightblue;
+}
